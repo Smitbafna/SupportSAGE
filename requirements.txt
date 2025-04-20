@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+chromadb
+faiss-cpu
+numpy
+pydantic
